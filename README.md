@@ -10,4 +10,4 @@ Choose city, voivodeship and distance of your work (only in Polish language). Re
 Python 3.5+, bs4, csv, lxml, requests 
 
 ## TBD
-Schedule automated work (schedule/ crone) and email directly as newsletter> TBD soon
+Schedule automated work (schedule/ crone) and email directly as newsletter > TBD soon
