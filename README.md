@@ -4,7 +4,7 @@
 Automated job search for Junior Python Developer
 
 ## Functionalities
-Choose city, voivodeship and distance of your work (only in Polish language)
+Choose city, voivodeship and distance of your work (only in Polish language). Results are listed in console and in (*).csv file 
 
 ## Requirments
 Python 3.5+, bs4, csv, lxml, requests 
